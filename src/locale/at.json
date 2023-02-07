@@ -1,0 +1,17 @@
+{
+  "help": "Da Titel sog eigentlich eh ois oda? I denk scho. Sche dassd do bist. :)",
+  "host": {
+    "json_files": "Iagndwonn mecht i de gonzn Üwasetzungen in eigene Datein haun, weil des scho a stickal geila war."
+  },
+  "how_to": {
+    "fifth1": "Iwasche om im header vaknüpfn: ",
+    "fifth2": "und nuamea so heanemma... feschtig.",
+    "first1": "Du beoawatst de sochn oafoch so, wia do",
+    "first2": "Donn haust die Üwastzungen do eini",
+    "fourth": "Schiabst ois vom dist-Ordna hint ent umi, wost as braugsch.",
+    "second1": "Schau ins <b>main.ce.ts</b> noa checkst scho wos zan doa is.",
+    "second2": "genau...",
+    "third": "Noa schreibsch des in de Konsoin:",
+    "title": "Wia mas heanimmb:"
+  }
+}

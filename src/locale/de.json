@@ -1,0 +1,17 @@
+{
+  "help": "Dieses Template soll helfen, schnell eine benutzerdefinierte vue-web-Komponente zu erstellen, die vue-i18n unterstützt.",
+  "host": {
+    "json_files": "Derzeit konnte ich die \"locale-messages\" nur im Wrapper hosten, aber ich plane, alles in Json-Dateien in den \"src/locale\"-Ordner zu migrieren."
+  },
+  "how_to": {
+    "fifth1": "Nun die Datein im header wie folgt verknüpfen:",
+    "fifth2": "und die neuen benutzerdefinierten html-Tags verwenden:",
+    "first1": "Bearbeiten oder erstelle einfach eigenen Dateien wie",
+    "first2": "Bearbeite anschließend hier Ihre Übersetzungen",
+    "fourth": "Schließlich exportiere die Dateien aus dem neu erstellten <b>dist</b>-Ordner und importieren sie, wo immer Sie sie benötigen.",
+    "second1": "Sieh dir die Datei <b>main.ce.ts</b> an und bearbeite die Konfiguration entsprechend, um alle erstellten Elemente zu definieren.",
+    "second2": "Jede Komponente muss als benutzerdefiniertes Element definiert werden.",
+    "third": "Die Komponente erzeugen: ",
+    "title": "Anwendung:"
+  }
+}

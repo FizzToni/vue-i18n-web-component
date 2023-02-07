@@ -1,0 +1,17 @@
+{
+  "help": "This should help you quickly build a custom vue-web-component that supports vue-i18n.",
+  "host": {
+    "json_files": "Right now, i only managed to host the locale messages in the wrapper, but i am planning to migrate everything to json files in the src/locale folder that you see"
+  },
+  "how_to": {
+    "fifth1": "Now simply link it in the header like so:",
+    "fifth2": "and use your new custom html-tags:",
+    "first1": "Simply edit or create your own files like",
+    "first2": "Afterwards edit your translations in",
+    "fourth": "Finally export the files from the newly created <b>dist</b>-Folder and import them where ever you may need them.",
+    "second1": "Look at the <b>main.ce.ts</b> file and edit the config accordingly, to define all elements you created.",
+    "second2": "Every component has to be defined as a custom element.",
+    "third": "Build your component with: ",
+    "title": "How to use:"
+  }
+}
